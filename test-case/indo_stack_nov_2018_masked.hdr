@@ -1,0 +1,27 @@
+ENVI
+description = {
+  Create Layer File Result [Tue Nov 13 17:52:21 2018]}
+samples = 2798
+lines   = 2754
+bands   = 11
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+map info = {Geographic Lat/Lon, 1.0000, 1.0000, 112.97944584, -1.49049576, 2.7200000000e-04, 2.7200000000e-04, WGS-84, units=Degrees}
+coordinate system string = {GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]}
+wavelength units = Unknown
+band names = {
+ Max NDVI 2015, 
+ Landsat Tree Canopy Cover 2015, 
+ C-band Radar Vegetation Index 2015, 
+ L-band Radar Vegetation Index 2015, 
+ ALOS2 alpha 2015, 
+ ALOS2 lambda 2015, 
+ ALOS2 entropy 2015, 
+ ALOS2 anisotropy 2015, 
+ ALOS2 HH backscatter in decibels, 
+ ALOS2 extent mask, 
+ L-band Radar Vegetation Index from ALOS2 Mosaic 2015}
